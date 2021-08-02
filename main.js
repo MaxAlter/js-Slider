@@ -1,10 +1,14 @@
 'use strict';
 
-// Get DOM elements
+
 const refs = {
   slideBox: document.querySelectorAll('.slide-box'),
+
   slidesContainer: document.querySelector('.slides-container'),
-  navLink: document.querySelector('.nav-link'),
+
+  navLink0: document.querySelector('.nav-link'),
+  navLink1: document.querySelector('.nav-link'),
+  navLink2: document.querySelector('.nav-link'),
 };
 
 // click listener
