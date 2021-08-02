@@ -1,6 +1,5 @@
 'use strict';
 
-// Get DOM elements
 const refs = {
   slideBox: document.querySelectorAll('.slide-box'),
   slidesContainer: document.querySelector('.slides-container'),
