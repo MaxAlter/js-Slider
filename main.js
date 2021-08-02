@@ -2,6 +2,9 @@
 
 const refs = {
   slideBox: document.querySelectorAll('.slide-box'),
+
+  slideBoxTest: document.querySelectorAll('slide-box'),
+
   slidesContainer: document.querySelector('.slides-container'),
   navLink: document.querySelector('.nav-link'),
 };
